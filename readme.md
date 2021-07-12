@@ -17,7 +17,7 @@
 > 
 > readme.md  
 ***
-* playbooks - папка с плейбуком ngin.yml  
+* playbooks - папка с плейбуком nginx.yml  
 * staging - папка с инвентори hosts  
 * templates - папка с шаблоном nginx.conf.j2  
 * Vagrantfile - файл для поднятия стенда  
