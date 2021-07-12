@@ -11,7 +11,7 @@ templates
 Vagrantfile  
 ansible.cfg    
 readme.md  
-
+***
 playbooks - папка с плейбуком ngin.yml  
 staging - папка с инвентори hosts  
 templates - папка с шаблоном nginx.conf.j2  
