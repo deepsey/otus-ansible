@@ -4,13 +4,13 @@
 
 > playbooks  
 >> nginx.yml  
-staging  
-         -- hosts  
-templates  
-         -- nginx.conf.j2  
-Vagrantfile  
-ansible.cfg    
-readme.md  
+> staging  
+>> hosts  
+> templates  
+>> nginx.conf.j2  
+> Vagrantfile  
+> ansible.cfg    
+> readme.md  
 ***
 * playbooks - папка с плейбуком ngin.yml  
 * staging - папка с инвентори hosts  
