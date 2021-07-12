@@ -2,8 +2,8 @@
 
 Проект подготовлен в следующей структуре:
 
-playbooks  
-         -- nginx.yml  
+> playbooks  
+         > nginx.yml  
 staging  
          -- hosts  
 templates  
